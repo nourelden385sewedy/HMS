@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|d:\\school\\download study seniors\\code modification\\projects\\hospital management system code modification project\\controllers\\medicalrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|solutionrelative:controllers\\medicalrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|d:\\school\\download study seniors\\code modification\\projects\\hospital management system code modification project\\data\\hmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|solutionrelative:data\\hmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|d:\\school\\download study seniors\\code modification\\projects\\hospital management system code modification project\\data\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|solutionrelative:data\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|d:\\school\\download study seniors\\code modification\\projects\\hospital management system code modification project\\repositories\\interfaces\\imedicalrecordrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|solutionrelative:repositories\\interfaces\\imedicalrecordrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|d:\\school\\download study seniors\\code modification\\projects\\hospital management system code modification project\\dtos\\updatemedicalrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|solutionrelative:dtos\\updatemedicalrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|d:\\school\\download study seniors\\code modification\\projects\\hospital management system code modification project\\repositories\\medicalrecordrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|solutionrelative:repositories\\medicalrecordrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|d:\\school\\download study seniors\\code modification\\projects\\hospital management system code modification project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|d:\\school\\download study seniors\\code modification\\projects\\hospital management system code modification project\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|solutionrelative:controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|d:\\school\\download study seniors\\code modification\\projects\\hospital management system code modification project\\repositories\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|solutionrelative:repositories\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|d:\\school\\download study seniors\\code modification\\projects\\hospital management system code modification project\\repositories\\interfaces\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|solutionrelative:repositories\\interfaces\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|d:\\school\\download study seniors\\code modification\\projects\\hospital management system code modification project\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|d:\\school\\download study seniors\\code modification\\projects\\hospital management system code modification project\\repositories\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|solutionrelative:repositories\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|d:\\school\\download study seniors\\code modification\\projects\\hospital management system code modification project\\repositories\\genericrepo\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|solutionrelative:repositories\\genericrepo\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|d:\\school\\download study seniors\\code modification\\projects\\hospital management system code modification project\\repositories\\genericrepo\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|solutionrelative:repositories\\genericrepo\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|d:\\school\\download study seniors\\code modification\\projects\\hospital management system code modification project\\data\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|solutionrelative:data\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|d:\\school\\download study seniors\\code modification\\projects\\hospital management system code modification project\\data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|solutionrelative:data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|d:\\school\\download study seniors\\code modification\\projects\\hospital management system code modification project\\data\\models\\patientphones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064A64C1-6F8C-4350-8599-3488A6A2AD45}|HMS.csproj|solutionrelative:data\\models\\patientphones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:01:38.83Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HMSDbContext.cs",
+              "DocumentMoniker": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Data\\HMSDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\HMSDbContext.cs",
+              "ToolTip": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Data\\HMSDbContext.cs",
+              "RelativeToolTip": "Data\\HMSDbContext.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAnwGMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:30:48.842Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicalRecordsController.cs",
+              "DocumentMoniker": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Controllers\\MedicalRecordsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedicalRecordsController.cs",
+              "ToolTip": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Controllers\\MedicalRecordsController.cs",
+              "RelativeToolTip": "Controllers\\MedicalRecordsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA1wDAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:15:35.218Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedicalRecordRepo.cs",
+              "DocumentMoniker": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Repositories\\MedicalRecordRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\MedicalRecordRepo.cs",
+              "ToolTip": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Repositories\\MedicalRecordRepo.cs",
+              "RelativeToolTip": "Repositories\\MedicalRecordRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T00:30:30.485Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMedicalRecordRepo.cs",
+              "DocumentMoniker": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Repositories\\Interfaces\\IMedicalRecordRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IMedicalRecordRepo.cs",
+              "ToolTip": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Repositories\\Interfaces\\IMedicalRecordRepo.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IMedicalRecordRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T00:30:19.201Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateMedicalRecordDto.cs",
+              "DocumentMoniker": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\DTOs\\UpdateMedicalRecordDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdateMedicalRecordDto.cs",
+              "ToolTip": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\DTOs\\UpdateMedicalRecordDto.cs",
+              "RelativeToolTip": "DTOs\\UpdateMedicalRecordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T00:29:49.632Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedicalRecord.cs",
+              "DocumentMoniker": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Data\\Models\\MedicalRecord.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\MedicalRecord.cs",
+              "ToolTip": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Data\\Models\\MedicalRecord.cs",
+              "RelativeToolTip": "Data\\Models\\MedicalRecord.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T00:32:24.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T00:02:14.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentRepo.cs",
+              "DocumentMoniker": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Repositories\\DepartmentRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\DepartmentRepo.cs",
+              "ToolTip": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Repositories\\DepartmentRepo.cs",
+              "RelativeToolTip": "Repositories\\DepartmentRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T23:39:04.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDepartmentRepo.cs",
+              "DocumentMoniker": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Repositories\\Interfaces\\IDepartmentRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IDepartmentRepo.cs",
+              "ToolTip": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Repositories\\Interfaces\\IDepartmentRepo.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IDepartmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T23:38:55.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
+              "ToolTip": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwDAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:13:56.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatientRepo.cs",
+              "DocumentMoniker": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Repositories\\PatientRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\PatientRepo.cs",
+              "ToolTip": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Repositories\\PatientRepo.cs",
+              "RelativeToolTip": "Repositories\\PatientRepo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T20:21:18.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Repositories\\GenericRepo\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\GenericRepo\\GenericRepo.cs",
+              "ToolTip": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Repositories\\GenericRepo\\GenericRepo.cs",
+              "RelativeToolTip": "Repositories\\GenericRepo\\GenericRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:41:38.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Repositories\\GenericRepo\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\GenericRepo\\IGenericRepo.cs",
+              "ToolTip": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Repositories\\GenericRepo\\IGenericRepo.cs",
+              "RelativeToolTip": "Repositories\\GenericRepo\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:41:38.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Data\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Department.cs",
+              "ToolTip": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Data\\Models\\Department.cs",
+              "RelativeToolTip": "Data\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:29:53.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Data\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Doctor.cs",
+              "ToolTip": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Data\\Models\\Doctor.cs",
+              "RelativeToolTip": "Data\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:29:52.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PatientPhones.cs",
+              "DocumentMoniker": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Data\\Models\\PatientPhones.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\PatientPhones.cs",
+              "ToolTip": "D:\\School\\Download Study Seniors\\Code Modification\\Projects\\Hospital Management System Code Modification Project\\Data\\Models\\PatientPhones.cs",
+              "RelativeToolTip": "Data\\Models\\PatientPhones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:29:52.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
